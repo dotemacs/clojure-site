@@ -1,0 +1,11 @@
+= re:Clojure
+London Clojurians
+2020-12-04
+:jbake-type: event
+:jbake-edition: 2020
+:jbake-link: https://reclojure.org
+:jbake-location: online
+:jbake-start: 2020-12-04
+:jbake-end: 2020-12-04
+
+We have the pleasure to invite you to https://reclojure.org[re:Clojure] - a brand new and free community driven conference, taking place online on Dec 4th, 2020.  We look forward to seeing you there!
